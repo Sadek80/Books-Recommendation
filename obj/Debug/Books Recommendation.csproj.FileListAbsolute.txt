@@ -1,0 +1,15 @@
+D:\Study\College\C#\Project\Books Recommendation\bin\Debug\Database.mdf
+D:\Study\College\C#\Project\Books Recommendation\bin\Debug\Database_log.ldf
+D:\Study\College\C#\Project\Books Recommendation\bin\Debug\Books Recommendation.exe.config
+D:\Study\College\C#\Project\Books Recommendation\bin\Debug\Books Recommendation.exe
+D:\Study\College\C#\Project\Books Recommendation\bin\Debug\Books Recommendation.pdb
+D:\Study\College\C#\Project\Books Recommendation\obj\Debug\Books Recommendation.csprojAssemblyReference.cache
+D:\Study\College\C#\Project\Books Recommendation\obj\Debug\Books_Recommendation.Form1.resources
+D:\Study\College\C#\Project\Books Recommendation\obj\Debug\Books_Recommendation.Properties.Resources.resources
+D:\Study\College\C#\Project\Books Recommendation\obj\Debug\Books Recommendation.csproj.GenerateResource.cache
+D:\Study\College\C#\Project\Books Recommendation\obj\Debug\Books Recommendation.csproj.CoreCompileInputs.cache
+D:\Study\College\C#\Project\Books Recommendation\obj\Debug\Books Recommendation.exe
+D:\Study\College\C#\Project\Books Recommendation\obj\Debug\Books Recommendation.pdb
+D:\Study\College\C#\Project\Books Recommendation\bin\Debug\FontAwesome.Sharp.dll
+D:\Study\College\C#\Project\Books Recommendation\obj\Debug\Books Recommendation.csproj.CopyComplete
+D:\Study\College\C#\Project\Books Recommendation\obj\Debug\Books_Recommendation.Form2.resources
