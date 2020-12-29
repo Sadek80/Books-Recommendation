@@ -19,5 +19,12 @@ open BooksRecommendation.sln
 ```
 
 ```
+open the DataBase1.mdf
+then go to  properties 
+copy connectin string
+change every sqlConnetion path with it
+```
+
+```
 CTRL + f5 to run the project
 ```
