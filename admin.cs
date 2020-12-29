@@ -7,28 +7,39 @@ namespace Books_Recommendation
 {
     public class admin : Person
     {
-        public string password
+        userDb userDb = new userDb();
+        private string username;
+        private string password;
+        public string Password
         {
             get => default;
             set
             {
+                password = value;
             }
         }
 
-        public string username
+        public string Username
         {
             get => default;
             set
             {
+                username = value;
             }
+        }
+
+        public admin(string username, string password)
+        {
+            this.Username = username;
+            this.Password = password;
         }
 
         public book book = new book();
       
 
-        public void addBook()
+        public bool addBook(string name, string author, string category, byte[] picture)
         {
-            book.addBook();
+            return book.addBook(name, author, category, picture);
         }
 
         public void updateBook()
@@ -39,6 +50,11 @@ namespace Books_Recommendation
         public void deleteBook()
         {
             book.deleteBook();
+        }
+
+        public bool logIn()
+        {
+            return userDb.get("admin", password);
         }
     }
 }

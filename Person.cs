@@ -7,7 +7,7 @@ namespace Books_Recommendation
 {
     public interface Person
     {
-        string username { get; set; }
-        string password { get; set; }
+        string Username { get; set; }
+        string Password { get; set; }
     }
 }

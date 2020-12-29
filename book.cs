@@ -7,11 +7,19 @@ namespace Books_Recommendation
 {
     public class book
     {
-        public string name
+        private string name;
+        private string author;
+        private string category;
+        private byte[] picture;
+        public string Name
         {
-            get => default;
+            get
+            {
+                return name;
+            }
             set
             {
+                name = value;
             }
         }
 
@@ -23,19 +31,27 @@ namespace Books_Recommendation
             }
         }
 
-        public string author
+        public string Author
         {
-            get => default;
+            get
+            {
+                return author;
+            }
             set
             {
+                author = value;
             }
         }
 
-        public string category
+        public string Category
         {
-            get => default;
+            get
+            {
+                return category;
+            }
             set
             {
+                category = value;
             }
         }
 
@@ -47,35 +63,39 @@ namespace Books_Recommendation
             }
         }
 
-        public string picture
+        public byte[] Picture
         {
-            get => default;
+            get
+            {
+                return picture;
+            }
             set
             {
+                picture = value;
             }
         }
 
         public bookDb bookDb = new bookDb();
        
 
-        public void addBook()
+        public bool addBook(string name, string author, string category, byte[] picture)
         {
-            bookDb.addBook();
+            return bookDb.add(name, author, category, picture);
         }
 
         public void deleteBook()
         {
-            bookDb.deleteBook();
+            bookDb.delete();
         }
 
         public void updateBook()
         {
-            bookDb.updateBook();
+            bookDb.update();
         }
 
-        public void getBook()
+        public book getBook(string category)
         {
-            bookDb.getBook();
+            return bookDb.get(category);
         }
     }
 }

@@ -7,41 +7,71 @@ namespace Books_Recommendation
 {
     public class user : Person
     {
-        public string password
+        private string username;
+        private string email;
+        private string password;
+        public string Password
         {
-            get => default;
+            get
+            {
+                return password;
+            }
             set
             {
+                password = value;
             }
         }
 
-        public string username
+        public string Username
         {
-            get => default;
+            get
+            {
+                return username;
+            }
             set
             {
+                username = value;
             }
         }
 
-        public string email
+        public string Email
         {
-            get => default;
+            get
+            {
+                return email;
+            }
             set
             {
+                email = value;
             }
         }
 
+        public user(string username, string password)
+        {
+            Username = username;
+            Password = password;
+        }
         public book book = new book();
         public userDb userDb = new userDb();
 
-        public void recommend()
+        public book recommend(string category)
         {
-            book.getBook();
+            return book.getBook(category);
         }
 
         public void editProfile()
         {
-            userDb.updateUser();
+            userDb.update();
+        }
+
+        public bool signUp()
+        {
+            return userDb.add(username, email, password);
+        }
+
+        public bool logIn()
+        {
+            return userDb.get(Username, Password);
         }
     }
 }

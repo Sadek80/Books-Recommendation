@@ -13,3 +13,56 @@ D:\Study\College\C#\Project\Books Recommendation\obj\Debug\Books Recommendation.
 D:\Study\College\C#\Project\Books Recommendation\bin\Debug\FontAwesome.Sharp.dll
 D:\Study\College\C#\Project\Books Recommendation\obj\Debug\Books Recommendation.csproj.CopyComplete
 D:\Study\College\C#\Project\Books Recommendation\obj\Debug\Books_Recommendation.Form2.resources
+C:\Users\Mohamed Shaaban\source\repos\Books-Recommendation\bin\Debug\Database.mdf
+C:\Users\Mohamed Shaaban\source\repos\Books-Recommendation\bin\Debug\Database_log.ldf
+C:\Users\Mohamed Shaaban\source\repos\Books-Recommendation\bin\Debug\Books Recommendation.exe.config
+C:\Users\Mohamed Shaaban\source\repos\Books-Recommendation\bin\Debug\Books Recommendation.exe
+C:\Users\Mohamed Shaaban\source\repos\Books-Recommendation\bin\Debug\Books Recommendation.pdb
+C:\Users\Mohamed Shaaban\source\repos\Books-Recommendation\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Mohamed Shaaban\source\repos\Books-Recommendation\obj\Debug\Books Recommendation.csprojAssemblyReference.cache
+C:\Users\Mohamed Shaaban\source\repos\Books-Recommendation\obj\Debug\Books_Recommendation.Form1.resources
+C:\Users\Mohamed Shaaban\source\repos\Books-Recommendation\obj\Debug\Books_Recommendation.Form2.resources
+C:\Users\Mohamed Shaaban\source\repos\Books-Recommendation\obj\Debug\Books_Recommendation.Form3.resources
+C:\Users\Mohamed Shaaban\source\repos\Books-Recommendation\obj\Debug\Books_Recommendation.Properties.Resources.resources
+C:\Users\Mohamed Shaaban\source\repos\Books-Recommendation\obj\Debug\Books Recommendation.csproj.GenerateResource.cache
+C:\Users\Mohamed Shaaban\source\repos\Books-Recommendation\obj\Debug\Books Recommendation.csproj.CopyComplete
+C:\Users\Mohamed Shaaban\source\repos\Books-Recommendation\obj\Debug\Books Recommendation.exe
+C:\Users\Mohamed Shaaban\source\repos\Books-Recommendation\obj\Debug\Books Recommendation.pdb
+C:\Users\Mohamed Shaaban\source\repos\Books-Recommendation\obj\Debug\Books_Recommendation.Form4.resources
+C:\Users\Mohamed Shaaban\source\repos\Books-Recommendation\obj\Debug\Books_Recommendation.Form5.resources
+D:\Study\College\C#\New folder (5)\Books-Recommendation\obj\Debug\Books Recommendation.csprojAssemblyReference.cache
+D:\Study\College\C#\New folder (5)\Books-Recommendation\obj\Debug\Books_Recommendation.Form1.resources
+D:\Study\College\C#\New folder (5)\Books-Recommendation\obj\Debug\Books_Recommendation.Form2.resources
+D:\Study\College\C#\New folder (5)\Books-Recommendation\obj\Debug\Books_Recommendation.Form3.resources
+D:\Study\College\C#\New folder (5)\Books-Recommendation\obj\Debug\Books_Recommendation.Form4.resources
+D:\Study\College\C#\New folder (5)\Books-Recommendation\obj\Debug\Books_Recommendation.Form5.resources
+D:\Study\College\C#\New folder (5)\Books-Recommendation\obj\Debug\Books_Recommendation.Properties.Resources.resources
+D:\Study\College\C#\New folder (5)\Books-Recommendation\obj\Debug\Books Recommendation.csproj.GenerateResource.cache
+D:\Study\College\C#\New folder (5)\Books-Recommendation\obj\Debug\Books Recommendation.csproj.CoreCompileInputs.cache
+D:\Study\College\C#\New folder (5)\Books-Recommendation\obj\Debug\Books Recommendation.exe
+D:\Study\College\C#\New folder (5)\Books-Recommendation\obj\Debug\Books Recommendation.pdb
+D:\Study\College\C#\New folder (5)\Books-Recommendation\bin\Debug\Database.mdf
+D:\Study\College\C#\New folder (5)\Books-Recommendation\bin\Debug\Database_log.ldf
+D:\Study\College\C#\New folder (5)\Books-Recommendation\bin\Debug\Books Recommendation.exe.config
+D:\Study\College\C#\New folder (5)\Books-Recommendation\bin\Debug\Books Recommendation.exe
+D:\Study\College\C#\New folder (5)\Books-Recommendation\bin\Debug\Books Recommendation.pdb
+D:\Study\College\C#\New folder (5)\Books-Recommendation\bin\Debug\FontAwesome.Sharp.dll
+D:\Study\College\C#\New folder (5)\Books-Recommendation\obj\Debug\Books Recommendation.csproj.CopyComplete
+D:\Study\College\C#\New folder (6)\Books-Recommendation\bin\Debug\Database.mdf
+D:\Study\College\C#\New folder (6)\Books-Recommendation\bin\Debug\Database_log.ldf
+D:\Study\College\C#\New folder (6)\Books-Recommendation\bin\Debug\Books Recommendation.exe.config
+D:\Study\College\C#\New folder (6)\Books-Recommendation\bin\Debug\Books Recommendation.exe
+D:\Study\College\C#\New folder (6)\Books-Recommendation\bin\Debug\Books Recommendation.pdb
+D:\Study\College\C#\New folder (6)\Books-Recommendation\bin\Debug\FontAwesome.Sharp.dll
+D:\Study\College\C#\New folder (6)\Books-Recommendation\obj\Debug\Books Recommendation.csprojAssemblyReference.cache
+D:\Study\College\C#\New folder (6)\Books-Recommendation\obj\Debug\Books_Recommendation.Form1.resources
+D:\Study\College\C#\New folder (6)\Books-Recommendation\obj\Debug\Books_Recommendation.Form2.resources
+D:\Study\College\C#\New folder (6)\Books-Recommendation\obj\Debug\Books_Recommendation.Form3.resources
+D:\Study\College\C#\New folder (6)\Books-Recommendation\obj\Debug\Books_Recommendation.Form4.resources
+D:\Study\College\C#\New folder (6)\Books-Recommendation\obj\Debug\Books_Recommendation.Form5.resources
+D:\Study\College\C#\New folder (6)\Books-Recommendation\obj\Debug\Books_Recommendation.Properties.Resources.resources
+D:\Study\College\C#\New folder (6)\Books-Recommendation\obj\Debug\Books Recommendation.csproj.GenerateResource.cache
+D:\Study\College\C#\New folder (6)\Books-Recommendation\obj\Debug\Books Recommendation.csproj.CoreCompileInputs.cache
+D:\Study\College\C#\New folder (6)\Books-Recommendation\obj\Debug\Books Recommendation.csproj.CopyComplete
+D:\Study\College\C#\New folder (6)\Books-Recommendation\obj\Debug\Books Recommendation.exe
+D:\Study\College\C#\New folder (6)\Books-Recommendation\obj\Debug\Books Recommendation.pdb
