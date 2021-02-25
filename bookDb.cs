@@ -9,7 +9,11 @@ namespace Books_Recommendation
 {
     public class bookDb
     {
-        public SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\Study\College\C#\New folder (5)\Books-Recommendation\Database.mdf;Integrated Security=True");
+        // Setting up the Connection String
+        private static string path = System.IO.Path.GetFullPath(Environment.CurrentDirectory);
+        private static string dataBaseName = "Database.mdf";
+        private static string ConnectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=" + path + @"\" + dataBaseName + ";Integrated Security=True";
+        public SqlConnection con = new SqlConnection(ConnectionString);
         public bool add(string name, string author, string category, byte[] picture)
         {
             SqlCommand command = new SqlCommand("INSERT INTO [book] VALUES(@author,@category, @name, @picture)", con);

@@ -1,13 +1,20 @@
-﻿using System.Data;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Data;
 using System.Data.SqlClient;
+using System.IO;
 
 namespace Books_Recommendation
 {
     public class userDb 
     {
 
-        public SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\Study\College\C#\New folder (5)\Books-Recommendation\Database.mdf;Integrated Security=True");
-        public  bool add(string username, string email, string password)
+        private static string path = System.IO.Path.GetFullPath(Environment.CurrentDirectory);
+        private static string dataBaseName = "Database.mdf";
+        private static string ConnectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=" + path + @"\" + dataBaseName + ";Integrated Security=True";
+        public SqlConnection con = new SqlConnection(ConnectionString); public  bool add(string username, string email, string password)
         {
             SqlCommand command = new SqlCommand("INSERT INTO [user] VALUES(@username,@password, @email)", con);
             command.CommandType = CommandType.Text;
